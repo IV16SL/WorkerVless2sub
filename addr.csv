@@ -1,157 +1,156 @@
-﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-35.201.203.106,443,TRUE,TPE,Asia Pacific,Taipei,91 ms,22925 kB/s
-64.110.88.46,443,TRUE,ICN,Asia Pacific,Seoul,69 ms,17885 kB/s
-13.114.250.221,443,TRUE,NRT,Asia Pacific,Tokyo,70 ms,17706 kB/s
-8.210.207.214,2053,TRUE,HKG,Asia Pacific,Hong Kong,61 ms,17596 kB/s
-15.165.49.161,8080,TRUE,ICN,Asia Pacific,Seoul,106 ms,15869 kB/s
-18.167.20.205,443,TRUE,HKG,Asia Pacific,Hong Kong,127 ms,15217 kB/s
-18.167.208.181,443,TRUE,HKG,Asia Pacific,Hong Kong,141 ms,14468 kB/s
-130.162.134.215,2052,TRUE,NRT,Asia Pacific,Tokyo,74 ms,13555 kB/s
-8.218.22.210,2083,TRUE,HKG,Asia Pacific,Hong Kong,56 ms,12152 kB/s
-13.228.170.74,443,TRUE,SIN,Asia Pacific,Singapore,93 ms,11031 kB/s
-192.9.246.112,8443,TRUE,SJC,North America,San Jose,185 ms,9880 kB/s
-155.248.196.218,443,TRUE,SJC,North America,San Jose,193 ms,9416 kB/s
-13.57.182.91,443,TRUE,SJC,North America,San Jose,178 ms,9176 kB/s
-150.230.47.17,443,TRUE,SJC,North America,San Jose,188 ms,9043 kB/s
-152.70.117.136,443,TRUE,SJC,North America,San Jose,189 ms,8846 kB/s
-8.219.124.227,8443,TRUE,SIN,Asia Pacific,Singapore,232 ms,8719 kB/s
-8.218.22.210,8443,TRUE,HKG,Asia Pacific,Hong Kong,56 ms,8474 kB/s
-99.83.209.185,443,TRUE,IAD,North America,Ashburn,183 ms,8466 kB/s
-18.166.180.230,8443,TRUE,HKG,Asia Pacific,Hong Kong,130 ms,8416 kB/s
-47.236.171.205,2096,TRUE,SIN,Asia Pacific,Singapore,237 ms,8246 kB/s
-54.201.19.60,443,TRUE,SEA,North America,Seattle,209 ms,8174 kB/s
-54.200.244.93,443,TRUE,SEA,North America,Seattle,197 ms,8113 kB/s
-47.76.32.108,2083,TRUE,HKG,Asia Pacific,Hong Kong,59 ms,8099 kB/s
-52.9.112.189,443,TRUE,SJC,North America,San Jose,182 ms,7866 kB/s
-8.219.77.222,2096,TRUE,SIN,Asia Pacific,Singapore,227 ms,7813 kB/s
-47.236.169.164,2087,TRUE,SIN,Asia Pacific,Singapore,231 ms,7719 kB/s
-8.219.177.205,8443,TRUE,SIN,Asia Pacific,Singapore,218 ms,7446 kB/s
-8.219.210.57,2053,TRUE,SIN,Asia Pacific,Singapore,222 ms,7389 kB/s
-34.105.49.234,443,TRUE,SEA,North America,Seattle,196 ms,7385 kB/s
-8.219.142.191,8443,TRUE,SIN,Asia Pacific,Singapore,240 ms,7300 kB/s
-8.219.191.110,2083,TRUE,SIN,Asia Pacific,Singapore,222 ms,7298 kB/s
-8.219.177.205,2053,TRUE,SIN,Asia Pacific,Singapore,231 ms,7222 kB/s
-47.236.145.85,2083,TRUE,SIN,Asia Pacific,Singapore,229 ms,7183 kB/s
-152.70.82.108,443,TRUE,KIX,Asia Pacific,Osaka,225 ms,7165 kB/s
-8.219.78.188,2096,TRUE,SIN,Asia Pacific,Singapore,244 ms,7146 kB/s
-47.236.118.216,2096,TRUE,SIN,Asia Pacific,Singapore,254 ms,7128 kB/s
-47.236.118.216,2083,TRUE,SIN,Asia Pacific,Singapore,266 ms,7126 kB/s
-34.82.76.253,443,TRUE,SEA,North America,Seattle,233 ms,7023 kB/s
-8.219.106.156,443,TRUE,SIN,Asia Pacific,Singapore,227 ms,7006 kB/s
-141.147.144.246,8080,TRUE,KIX,Asia Pacific,Osaka,218 ms,6933 kB/s
-8.219.210.57,2083,TRUE,SIN,Asia Pacific,Singapore,241 ms,6891 kB/s
-8.219.106.156,8443,TRUE,SIN,Asia Pacific,Singapore,233 ms,6890 kB/s
-35.165.253.141,443,TRUE,SEA,North America,Seattle,205 ms,6850 kB/s
-138.2.36.157,8443,TRUE,KIX,Asia Pacific,Osaka,212 ms,6831 kB/s
-47.76.32.108,2087,TRUE,HKG,Asia Pacific,Hong Kong,61 ms,6824 kB/s
-34.66.72.229,443,TRUE,ORD,North America,Chicago,253 ms,6817 kB/s
-34.32.255.76,443,TRUE,FRA,Europe,Frankfurt,244 ms,6756 kB/s
-8.219.4.122,2053,TRUE,SIN,Asia Pacific,Singapore,223 ms,6744 kB/s
-34.154.253.254,443,TRUE,FRA,Europe,Frankfurt,248 ms,6740 kB/s
-8.219.4.122,2083,TRUE,SIN,Asia Pacific,Singapore,227 ms,6702 kB/s
-8.219.67.133,2053,TRUE,SIN,Asia Pacific,Singapore,226 ms,6694 kB/s
-34.91.177.185,443,TRUE,FRA,Europe,Frankfurt,244 ms,6651 kB/s
-64.110.101.125,443,TRUE,KIX,Asia Pacific,Osaka,226 ms,6570 kB/s
-8.219.77.222,2083,TRUE,SIN,Asia Pacific,Singapore,241 ms,6517 kB/s
-8.222.136.247,2083,TRUE,SIN,Asia Pacific,Singapore,226 ms,6501 kB/s
-20.220.204.217,443,TRUE,YYZ,North America,Toronto,219 ms,6497 kB/s
-158.101.98.60,2095,TRUE,IAD,North America,Ashburn,263 ms,6489 kB/s
-34.154.122.18,443,TRUE,FRA,Europe,Frankfurt,257 ms,6484 kB/s
-18.167.194.154,443,TRUE,HKG,Asia Pacific,Hong Kong,132 ms,6405 kB/s
-35.242.249.117,443,TRUE,FRA,Europe,Frankfurt,236 ms,6378 kB/s
-8.219.78.188,2053,TRUE,SIN,Asia Pacific,Singapore,243 ms,6357 kB/s
-34.32.255.92,443,TRUE,FRA,Europe,Frankfurt,241 ms,6335 kB/s
-34.107.82.230,443,TRUE,FRA,Europe,Frankfurt,242 ms,6206 kB/s
-204.216.105.106,8443,TRUE,YYZ,North America,Toronto,252 ms,6155 kB/s
-84.8.148.235,8443,TRUE,LHR,Europe,London,254 ms,6110 kB/s
-3.144.191.4,443,TRUE,ORD,North America,Chicago,257 ms,6107 kB/s
-164.152.26.70,2052,TRUE,ORD,North America,Chicago,254 ms,6091 kB/s
-47.236.144.196,2083,TRUE,SIN,Asia Pacific,Singapore,233 ms,6062 kB/s
-34.154.214.182,443,TRUE,FRA,Europe,Frankfurt,241 ms,6047 kB/s
-34.91.254.161,443,TRUE,FRA,Europe,Frankfurt,240 ms,6033 kB/s
-34.154.233.248,443,TRUE,FRA,Europe,Frankfurt,234 ms,5994 kB/s
-34.147.114.254,443,TRUE,FRA,Europe,Frankfurt,245 ms,5992 kB/s
-34.154.6.72,443,TRUE,FRA,Europe,Frankfurt,231 ms,5988 kB/s
-34.123.83.237,443,TRUE,ORD,North America,Chicago,254 ms,5975 kB/s
-35.234.107.189,443,TRUE,FRA,Europe,Frankfurt,253 ms,5951 kB/s
-47.237.10.1,2083,TRUE,SIN,Asia Pacific,Singapore,246 ms,5893 kB/s
-8.219.77.222,8443,TRUE,SIN,Asia Pacific,Singapore,223 ms,5893 kB/s
-35.198.72.47,443,TRUE,FRA,Europe,Frankfurt,241 ms,5884 kB/s
-47.236.202.91,2083,TRUE,SIN,Asia Pacific,Singapore,225 ms,5878 kB/s
-47.237.14.220,2053,TRUE,SIN,Asia Pacific,Singapore,229 ms,5877 kB/s
-8.219.191.110,2053,TRUE,SIN,Asia Pacific,Singapore,232 ms,5864 kB/s
-34.65.251.175,443,TRUE,FRA,Europe,Frankfurt,258 ms,5847 kB/s
-8.222.164.209,2053,TRUE,SIN,Asia Pacific,Singapore,221 ms,5830 kB/s
-34.90.60.161,443,TRUE,FRA,Europe,Frankfurt,262 ms,5819 kB/s
-8.222.144.50,2087,TRUE,SIN,Asia Pacific,Singapore,239 ms,5793 kB/s
-34.154.107.8,443,TRUE,FRA,Europe,Frankfurt,254 ms,5775 kB/s
-47.236.144.208,2053,TRUE,SIN,Asia Pacific,Singapore,221 ms,5768 kB/s
-8.222.164.209,2083,TRUE,SIN,Asia Pacific,Singapore,231 ms,5762 kB/s
-141.148.233.59,443,TRUE,FRA,Europe,Frankfurt,273 ms,5751 kB/s
-34.65.11.196,443,TRUE,FRA,Europe,Frankfurt,239 ms,5738 kB/s
-8.219.153.237,8443,TRUE,NRT,Asia Pacific,Tokyo,290 ms,5709 kB/s
-34.154.213.202,443,TRUE,FRA,Europe,Frankfurt,242 ms,5701 kB/s
-47.237.11.182,2083,TRUE,SIN,Asia Pacific,Singapore,232 ms,5695 kB/s
-34.91.37.222,443,TRUE,FRA,Europe,Frankfurt,256 ms,5669 kB/s
-34.154.61.227,443,TRUE,FRA,Europe,Frankfurt,243 ms,5665 kB/s
-8.219.191.40,2053,TRUE,SIN,Asia Pacific,Singapore,230 ms,5664 kB/s
-35.198.93.202,443,TRUE,FRA,Europe,Frankfurt,239 ms,5613 kB/s
-47.236.97.90,2087,TRUE,SIN,Asia Pacific,Singapore,227 ms,5611 kB/s
-34.90.10.137,443,TRUE,FRA,Europe,Frankfurt,257 ms,5609 kB/s
-34.89.245.184,443,TRUE,FRA,Europe,Frankfurt,248 ms,5595 kB/s
-164.152.26.70,2086,TRUE,ORD,North America,Chicago,249 ms,5531 kB/s
-34.154.43.73,443,TRUE,FRA,Europe,Frankfurt,238 ms,5525 kB/s
-34.116.219.249,443,TRUE,FRA,Europe,Frankfurt,274 ms,5522 kB/s
-34.154.201.176,443,TRUE,FRA,Europe,Frankfurt,240 ms,5505 kB/s
-47.236.87.246,8443,TRUE,SIN,Asia Pacific,Singapore,222 ms,5499 kB/s
-47.237.8.82,2083,TRUE,SIN,Asia Pacific,Singapore,225 ms,5469 kB/s
-18.191.89.80,2053,TRUE,ORD,North America,Chicago,238 ms,5421 kB/s
-34.116.241.42,443,TRUE,FRA,Europe,Frankfurt,258 ms,5399 kB/s
-35.222.230.126,2053,TRUE,ORD,North America,Chicago,251 ms,5386 kB/s
-47.236.169.141,2083,TRUE,SIN,Asia Pacific,Singapore,225 ms,5379 kB/s
-47.237.0.31,2083,TRUE,SIN,Asia Pacific,Singapore,239 ms,5375 kB/s
-47.236.149.107,2087,TRUE,SIN,Asia Pacific,Singapore,238 ms,5363 kB/s
-8.219.106.156,2096,TRUE,SIN,Asia Pacific,Singapore,246 ms,5327 kB/s
-47.236.9.152,2087,TRUE,SIN,Asia Pacific,Singapore,236 ms,5324 kB/s
-8.219.191.40,8443,TRUE,SIN,Asia Pacific,Singapore,245 ms,5314 kB/s
-15.156.194.152,2053,TRUE,YUL,North America,Montréal,269 ms,5304 kB/s
-18.216.55.100,443,TRUE,ORD,North America,Chicago,229 ms,5301 kB/s
-47.236.253.41,8443,TRUE,SIN,Asia Pacific,Singapore,228 ms,5293 kB/s
-34.32.169.219,443,TRUE,FRA,Europe,Frankfurt,248 ms,5276 kB/s
-130.162.140.215,443,TRUE,NRT,Asia Pacific,Tokyo,76 ms,5272 kB/s
-152.67.78.164,8443,TRUE,MXP,Europe,Milan,266 ms,5269 kB/s
-47.236.145.85,443,TRUE,SIN,Asia Pacific,Singapore,220 ms,5269 kB/s
-34.159.129.185,443,TRUE,FRA,Europe,Frankfurt,239 ms,5266 kB/s
-47.237.81.112,2083,TRUE,SIN,Asia Pacific,Singapore,220 ms,5257 kB/s
-47.236.253.41,2053,TRUE,SIN,Asia Pacific,Singapore,231 ms,5242 kB/s
-47.236.202.91,8443,TRUE,SIN,Asia Pacific,Singapore,243 ms,5241 kB/s
-34.105.3.218,443,TRUE,SEA,North America,Seattle,196 ms,5239 kB/s
-34.116.174.240,443,TRUE,FRA,Europe,Frankfurt,251 ms,5231 kB/s
-34.32.207.224,443,TRUE,FRA,Europe,Frankfurt,235 ms,5215 kB/s
-35.246.183.104,443,TRUE,FRA,Europe,Frankfurt,249 ms,5209 kB/s
-129.146.240.62,443,TRUE,LAX,North America,Los Angeles,253 ms,5205 kB/s
-35.246.131.158,443,TRUE,FRA,Europe,Frankfurt,241 ms,5201 kB/s
-34.34.33.127,443,TRUE,FRA,Europe,Frankfurt,248 ms,5198 kB/s
-47.236.17.193,2053,TRUE,SIN,Asia Pacific,Singapore,223 ms,5195 kB/s
-34.32.159.13,443,TRUE,FRA,Europe,Frankfurt,245 ms,5192 kB/s
-47.236.17.193,2096,TRUE,SIN,Asia Pacific,Singapore,256 ms,5166 kB/s
-34.118.25.207,443,TRUE,FRA,Europe,Frankfurt,253 ms,5152 kB/s
-47.236.80.110,2087,TRUE,SIN,Asia Pacific,Singapore,248 ms,5147 kB/s
-47.237.8.82,2053,TRUE,SIN,Asia Pacific,Singapore,224 ms,5146 kB/s
-47.236.158.158,2083,TRUE,SIN,Asia Pacific,Singapore,226 ms,5135 kB/s
-34.116.233.92,443,TRUE,FRA,Europe,Frankfurt,254 ms,5129 kB/s
-34.32.236.208,443,TRUE,FRA,Europe,Frankfurt,246 ms,5128 kB/s
-34.65.234.143,443,TRUE,FRA,Europe,Frankfurt,236 ms,5128 kB/s
-35.204.229.14,443,TRUE,FRA,Europe,Frankfurt,238 ms,5123 kB/s
-8.219.67.133,8443,TRUE,SIN,Asia Pacific,Singapore,221 ms,5122 kB/s
-20.185.28.234,44056,TRUE,IAD,North America,Ashburn,248 ms,5105 kB/s
-47.236.174.206,2096,TRUE,SIN,Asia Pacific,Singapore,231 ms,5071 kB/s
-8.219.77.222,2053,TRUE,SIN,Asia Pacific,Singapore,244 ms,5071 kB/s
-47.237.8.82,8443,TRUE,SIN,Asia Pacific,Singapore,221 ms,5064 kB/s
-47.236.102.102,2053,TRUE,SIN,Asia Pacific,Singapore,235 ms,5058 kB/s
-34.141.73.229,443,TRUE,FRA,Europe,Frankfurt,237 ms,5030 kB/s
-47.236.145.85,2087,TRUE,SIN,Asia Pacific,Singapore,242 ms,5025 kB/s
-47.236.254.120,2096,TRUE,SIN,Asia Pacific,Singapore,231 ms,5017 kB/s
-35.246.204.254,443,TRUE,FRA,Europe,Frankfurt,245 ms,5014 kB/s
-47.237.95.13,8443,TRUE,SIN,Asia Pacific,Singapore,230 ms,5010 kB/s
-35.246.230.216,443,TRUE,FRA,Europe,Frankfurt,242 ms,5007 kB/s
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度,下载速度
+15.165.49.161,8080,TRUE,ICN,Asia Pacific,Seoul,96 ms,18290 kB/s,18290
+54.249.173.119,443,TRUE,NRT,Asia Pacific,Tokyo,82 ms,16052 kB/s,16052
+13.125.218.78,443,TRUE,ICN,Asia Pacific,Seoul,108 ms,14878 kB/s,14878
+13.57.182.91,443,TRUE,SJC,North America,San Jose,173 ms,9604 kB/s,9604
+152.70.117.136,443,TRUE,SJC,North America,San Jose,196 ms,9025 kB/s,9025
+54.200.244.93,443,TRUE,SEA,North America,Seattle,191 ms,9004 kB/s,9004
+47.245.86.230,8443,TRUE,SIN,Asia Pacific,Singapore,250 ms,8233 kB/s,8233
+47.236.80.110,2087,TRUE,SIN,Asia Pacific,Singapore,242 ms,8216 kB/s,8216
+8.222.214.231,2096,TRUE,SIN,Asia Pacific,Singapore,243 ms,8087 kB/s,8087
+138.2.36.157,8443,TRUE,KIX,Asia Pacific,Osaka,221 ms,8032 kB/s,8032
+47.76.159.146,2083,TRUE,HKG,Asia Pacific,Hong Kong,64 ms,7819 kB/s,7819
+34.154.11.70,443,TRUE,FRA,Europe,Frankfurt,250 ms,7745 kB/s,7745
+34.154.134.221,443,TRUE,FRA,Europe,Frankfurt,248 ms,7719 kB/s,7719
+8.222.214.231,8443,TRUE,SIN,Asia Pacific,Singapore,243 ms,7671 kB/s,7671
+34.65.92.255,443,TRUE,FRA,Europe,Frankfurt,237 ms,7613 kB/s,7613
+47.245.86.230,2053,TRUE,SIN,Asia Pacific,Singapore,229 ms,7576 kB/s,7576
+35.246.180.179,443,TRUE,FRA,Europe,Frankfurt,239 ms,7430 kB/s,7430
+34.65.78.221,443,TRUE,FRA,Europe,Frankfurt,247 ms,7421 kB/s,7421
+34.41.252.92,443,TRUE,ORD,North America,Chicago,232 ms,7353 kB/s,7353
+34.154.134.221,443,TRUE,FRA,Europe,Frankfurt,243 ms,7351 kB/s,7351
+35.246.156.11,443,TRUE,FRA,Europe,Frankfurt,245 ms,7343 kB/s,7343
+34.141.21.177,443,TRUE,FRA,Europe,Frankfurt,240 ms,7330 kB/s,7330
+47.236.253.41,2087,TRUE,SIN,Asia Pacific,Singapore,232 ms,7300 kB/s,7300
+47.237.100.206,2096,TRUE,SIN,Asia Pacific,Singapore,224 ms,7232 kB/s,7232
+35.198.146.243,443,TRUE,FRA,Europe,Frankfurt,237 ms,7202 kB/s,7202
+47.237.94.140,2083,TRUE,SIN,Asia Pacific,Singapore,249 ms,7175 kB/s,7175
+34.65.79.91,443,TRUE,FRA,Europe,Frankfurt,248 ms,7172 kB/s,7172
+34.65.223.113,443,TRUE,FRA,Europe,Frankfurt,247 ms,7165 kB/s,7165
+34.107.122.127,443,TRUE,FRA,Europe,Frankfurt,236 ms,7124 kB/s,7124
+35.234.79.243,443,TRUE,FRA,Europe,Frankfurt,238 ms,7097 kB/s,7097
+141.147.144.246,8080,TRUE,KIX,Asia Pacific,Osaka,227 ms,7079 kB/s,7079
+34.147.119.30,443,TRUE,FRA,Europe,Frankfurt,258 ms,7074 kB/s,7074
+34.89.250.229,443,TRUE,FRA,Europe,Frankfurt,248 ms,7074 kB/s,7074
+34.141.194.63,443,TRUE,FRA,Europe,Frankfurt,252 ms,7068 kB/s,7068
+34.89.179.44,443,TRUE,FRA,Europe,Frankfurt,240 ms,7019 kB/s,7019
+34.65.13.41,443,TRUE,FRA,Europe,Frankfurt,238 ms,7006 kB/s,7006
+47.237.95.146,2096,TRUE,SIN,Asia Pacific,Singapore,222 ms,7004 kB/s,7004
+34.159.28.199,443,TRUE,FRA,Europe,Frankfurt,242 ms,6983 kB/s,6983
+47.76.159.146,2053,TRUE,HKG,Asia Pacific,Hong Kong,60 ms,6959 kB/s,6959
+47.237.95.140,2053,TRUE,SIN,Asia Pacific,Singapore,237 ms,6945 kB/s,6945
+64.110.101.125,443,TRUE,KIX,Asia Pacific,Osaka,235 ms,6897 kB/s,6897
+34.89.215.49,443,TRUE,FRA,Europe,Frankfurt,247 ms,6865 kB/s,6865
+34.107.1.24,443,TRUE,FRA,Europe,Frankfurt,233 ms,6853 kB/s,6853
+8.222.134.170,2087,TRUE,SIN,Asia Pacific,Singapore,237 ms,6817 kB/s,6817
+34.116.159.95,443,TRUE,FRA,Europe,Frankfurt,260 ms,6766 kB/s,6766
+47.237.0.31,2083,TRUE,SIN,Asia Pacific,Singapore,234 ms,6753 kB/s,6753
+34.118.5.223,443,TRUE,FRA,Europe,Frankfurt,253 ms,6721 kB/s,6721
+34.154.179.84,443,TRUE,FRA,Europe,Frankfurt,234 ms,6714 kB/s,6714
+35.234.85.250,443,TRUE,FRA,Europe,Frankfurt,254 ms,6703 kB/s,6703
+47.236.254.120,2083,TRUE,SIN,Asia Pacific,Singapore,246 ms,6637 kB/s,6637
+34.118.67.161,443,TRUE,FRA,Europe,Frankfurt,256 ms,6632 kB/s,6632
+47.76.33.40,2053,TRUE,HKG,Asia Pacific,Hong Kong,60 ms,6624 kB/s,6624
+8.219.42.72,2096,TRUE,SIN,Asia Pacific,Singapore,243 ms,6582 kB/s,6582
+47.237.84.173,2087,TRUE,SIN,Asia Pacific,Singapore,238 ms,6578 kB/s,6578
+47.242.171.94,2083,TRUE,HKG,Asia Pacific,Hong Kong,61 ms,6557 kB/s,6557
+3.144.191.4,443,TRUE,ORD,North America,Chicago,228 ms,6552 kB/s,6552
+34.118.46.204,443,TRUE,FRA,Europe,Frankfurt,276 ms,6520 kB/s,6520
+34.118.75.249,443,TRUE,FRA,Europe,Frankfurt,265 ms,6517 kB/s,6517
+35.246.182.171,443,TRUE,FRA,Europe,Frankfurt,255 ms,6504 kB/s,6504
+34.118.58.146,443,TRUE,FRA,Europe,Frankfurt,253 ms,6502 kB/s,6502
+34.116.149.184,443,TRUE,FRA,Europe,Frankfurt,274 ms,6501 kB/s,6501
+34.91.218.58,443,TRUE,FRA,Europe,Frankfurt,255 ms,6490 kB/s,6490
+192.9.246.112,8443,TRUE,SJC,North America,San Jose,186 ms,6437 kB/s,6437
+34.116.218.15,443,TRUE,FRA,Europe,Frankfurt,255 ms,6433 kB/s,6433
+34.118.37.122,443,TRUE,FRA,Europe,Frankfurt,253 ms,6401 kB/s,6401
+34.118.72.1,443,TRUE,FRA,Europe,Frankfurt,255 ms,6398 kB/s,6398
+35.246.128.62,443,TRUE,FRA,Europe,Frankfurt,252 ms,6370 kB/s,6370
+35.202.158.120,443,TRUE,ORD,North America,Chicago,231 ms,6347 kB/s,6347
+47.76.159.146,8443,TRUE,HKG,Asia Pacific,Hong Kong,59 ms,6338 kB/s,6338
+34.116.251.40,443,TRUE,FRA,Europe,Frankfurt,258 ms,6328 kB/s,6328
+34.118.123.8,443,TRUE,FRA,Europe,Frankfurt,256 ms,6318 kB/s,6318
+47.237.11.182,2096,TRUE,SIN,Asia Pacific,Singapore,239 ms,6290 kB/s,6290
+47.237.10.1,2096,TRUE,SIN,Asia Pacific,Singapore,229 ms,6268 kB/s,6268
+34.116.220.129,443,TRUE,FRA,Europe,Frankfurt,259 ms,6259 kB/s,6259
+34.147.46.136,443,TRUE,FRA,Europe,Frankfurt,245 ms,6259 kB/s,6259
+47.237.84.173,2053,TRUE,SIN,Asia Pacific,Singapore,256 ms,6248 kB/s,6248
+34.107.103.93,443,TRUE,FRA,Europe,Frankfurt,245 ms,6248 kB/s,6248
+47.237.100.206,2087,TRUE,SIN,Asia Pacific,Singapore,244 ms,6229 kB/s,6229
+47.236.158.158,2083,TRUE,SIN,Asia Pacific,Singapore,224 ms,6222 kB/s,6222
+34.90.46.109,443,TRUE,FRA,Europe,Frankfurt,250 ms,6184 kB/s,6184
+47.237.92.26,8443,TRUE,SIN,Asia Pacific,Singapore,237 ms,6180 kB/s,6180
+150.230.47.17,443,TRUE,SJC,North America,San Jose,186 ms,6157 kB/s,6157
+47.236.93.176,2083,TRUE,SIN,Asia Pacific,Singapore,239 ms,6108 kB/s,6108
+47.237.83.20,2096,TRUE,SIN,Asia Pacific,Singapore,228 ms,6101 kB/s,6101
+34.118.30.13,443,TRUE,FRA,Europe,Frankfurt,264 ms,6089 kB/s,6089
+8.219.174.213,2087,TRUE,SIN,Asia Pacific,Singapore,254 ms,6066 kB/s,6066
+34.116.148.216,443,TRUE,FRA,Europe,Frankfurt,258 ms,5953 kB/s,5953
+8.219.174.213,2053,TRUE,SIN,Asia Pacific,Singapore,225 ms,5921 kB/s,5921
+47.237.84.173,2096,TRUE,SIN,Asia Pacific,Singapore,225 ms,5910 kB/s,5910
+129.146.240.62,443,TRUE,LAX,North America,Los Angeles,255 ms,5906 kB/s,5906
+34.116.200.216,443,TRUE,FRA,Europe,Frankfurt,262 ms,5898 kB/s,5898
+34.116.205.141,443,TRUE,FRA,Europe,Frankfurt,251 ms,5895 kB/s,5895
+34.118.109.211,443,TRUE,FRA,Europe,Frankfurt,250 ms,5889 kB/s,5889
+34.118.67.172,443,TRUE,FRA,Europe,Frankfurt,258 ms,5877 kB/s,5877
+34.116.141.181,443,TRUE,FRA,Europe,Frankfurt,263 ms,5850 kB/s,5850
+35.165.253.141,443,TRUE,SEA,North America,Seattle,223 ms,5840 kB/s,5840
+34.116.138.196,443,TRUE,FRA,Europe,Frankfurt,255 ms,5826 kB/s,5826
+150.136.241.40,8443,TRUE,IAD,North America,Ashburn,257 ms,5800 kB/s,5800
+34.118.121.235,443,TRUE,FRA,Europe,Frankfurt,252 ms,5784 kB/s,5784
+8.219.174.213,8443,TRUE,SIN,Asia Pacific,Singapore,218 ms,5781 kB/s,5781
+47.237.82.15,8443,TRUE,SIN,Asia Pacific,Singapore,244 ms,5774 kB/s,5774
+34.116.238.49,443,TRUE,FRA,Europe,Frankfurt,250 ms,5761 kB/s,5761
+47.236.237.90,2096,TRUE,SIN,Asia Pacific,Singapore,230 ms,5757 kB/s,5757
+34.116.182.250,443,TRUE,FRA,Europe,Frankfurt,253 ms,5756 kB/s,5756
+34.116.248.5,443,TRUE,FRA,Europe,Frankfurt,244 ms,5742 kB/s,5742
+47.236.254.120,2087,TRUE,SIN,Asia Pacific,Singapore,242 ms,5713 kB/s,5713
+8.219.113.232,2083,TRUE,SIN,Asia Pacific,Singapore,234 ms,5710 kB/s,5710
+34.90.56.154,443,TRUE,FRA,Europe,Frankfurt,250 ms,5682 kB/s,5682
+3.15.147.151,2083,TRUE,ORD,North America,Chicago,235 ms,5666 kB/s,5666
+34.116.152.212,443,TRUE,FRA,Europe,Frankfurt,261 ms,5665 kB/s,5665
+34.116.251.40,443,TRUE,FRA,Europe,Frankfurt,249 ms,5658 kB/s,5658
+47.236.10.182,2083,TRUE,SIN,Asia Pacific,Singapore,262 ms,5631 kB/s,5631
+47.236.146.249,2087,TRUE,SIN,Asia Pacific,Singapore,240 ms,5630 kB/s,5630
+47.236.117.48,8443,TRUE,SIN,Asia Pacific,Singapore,235 ms,5594 kB/s,5594
+144.21.39.76,443,TRUE,FRA,Europe,Frankfurt,278 ms,5585 kB/s,5585
+47.242.171.94,2053,TRUE,HKG,Asia Pacific,Hong Kong,60 ms,5575 kB/s,5575
+47.236.102.102,8443,TRUE,SIN,Asia Pacific,Singapore,229 ms,5551 kB/s,5551
+47.236.83.239,2087,TRUE,SIN,Asia Pacific,Singapore,227 ms,5544 kB/s,5544
+47.237.14.220,2096,TRUE,SIN,Asia Pacific,Singapore,260 ms,5521 kB/s,5521
+35.198.85.198,443,TRUE,FRA,Europe,Frankfurt,239 ms,5508 kB/s,5508
+34.116.236.192,443,TRUE,FRA,Europe,Frankfurt,260 ms,5503 kB/s,5503
+132.226.213.81,443,TRUE,FRA,Europe,Frankfurt,269 ms,5488 kB/s,5488
+34.159.25.164,443,TRUE,FRA,Europe,Frankfurt,240 ms,5482 kB/s,5482
+34.123.83.237,443,TRUE,ORD,North America,Chicago,261 ms,5477 kB/s,5477
+47.236.146.249,2096,TRUE,SIN,Asia Pacific,Singapore,248 ms,5473 kB/s,5473
+34.66.72.229,443,TRUE,ORD,North America,Chicago,238 ms,5458 kB/s,5458
+47.236.167.231,8443,TRUE,SIN,Asia Pacific,Singapore,260 ms,5452 kB/s,5452
+47.236.165.25,2083,TRUE,SIN,Asia Pacific,Singapore,225 ms,5431 kB/s,5431
+34.34.4.57,443,TRUE,FRA,Europe,Frankfurt,262 ms,5420 kB/s,5420
+34.118.112.163,443,TRUE,FRA,Europe,Frankfurt,275 ms,5391 kB/s,5391
+35.198.177.9,443,TRUE,FRA,Europe,Frankfurt,244 ms,5376 kB/s,5376
+47.236.164.215,8443,TRUE,SIN,Asia Pacific,Singapore,250 ms,5375 kB/s,5375
+164.152.26.70,2086,TRUE,ORD,North America,Chicago,250 ms,5334 kB/s,5334
+47.236.102.102,2087,TRUE,SIN,Asia Pacific,Singapore,252 ms,5330 kB/s,5330
+47.237.94.140,2087,TRUE,SIN,Asia Pacific,Singapore,254 ms,5318 kB/s,5318
+155.248.196.218,443,TRUE,SJC,North America,San Jose,195 ms,5288 kB/s,5288
+18.216.55.100,443,TRUE,ORD,North America,Chicago,234 ms,5269 kB/s,5269
+47.236.9.152,8443,TRUE,SIN,Asia Pacific,Singapore,246 ms,5267 kB/s,5267
+13.114.250.221,443,TRUE,NRT,Asia Pacific,Tokyo,89 ms,5223 kB/s,5223
+152.67.78.164,8443,TRUE,MXP,Europe,Milan,265 ms,5199 kB/s,5199
+47.236.9.152,2087,TRUE,SIN,Asia Pacific,Singapore,237 ms,5187 kB/s,5187
+47.237.81.112,8443,TRUE,SIN,Asia Pacific,Singapore,246 ms,5150 kB/s,5150
+47.236.102.102,2053,TRUE,SIN,Asia Pacific,Singapore,258 ms,5137 kB/s,5137
+213.35.115.68,443,TRUE,SIN,Asia Pacific,Singapore,272 ms,5132 kB/s,5132
+20.185.28.234,44056,TRUE,IAD,North America,Ashburn,241 ms,5126 kB/s,5126
+47.237.8.82,2096,TRUE,SIN,Asia Pacific,Singapore,240 ms,5125 kB/s,5125
+8.219.100.168,2053,TRUE,SIN,Asia Pacific,Singapore,226 ms,5122 kB/s,5122
+47.237.84.173,8443,TRUE,SIN,Asia Pacific,Singapore,244 ms,5120 kB/s,5120
+8.219.86.200,2053,TRUE,SIN,Asia Pacific,Singapore,226 ms,5109 kB/s,5109
+34.154.233.195,443,TRUE,FRA,Europe,Frankfurt,255 ms,5105 kB/s,5105
+47.236.180.51,8443,TRUE,SIN,Asia Pacific,Singapore,216 ms,5080 kB/s,5080
+47.236.237.90,2053,TRUE,SIN,Asia Pacific,Singapore,250 ms,5079 kB/s,5079
+35.222.230.126,2053,TRUE,ORD,North America,Chicago,255 ms,5054 kB/s,5054
+47.237.8.82,2053,TRUE,SIN,Asia Pacific,Singapore,231 ms,5050 kB/s,5050
+129.146.83.33,8443,TRUE,LAX,North America,Los Angeles,258 ms,5008 kB/s,5008
